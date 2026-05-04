@@ -20,9 +20,8 @@ Sürekli pratik yaparak ve gerçek projeler üreterek JavaScript ve web gelişti
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaileyg&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismaileyg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileyg&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 İletişim
