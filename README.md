@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/KULLANICIADIN/KULLANICIADIN/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
