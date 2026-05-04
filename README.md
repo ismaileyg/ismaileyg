@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Merhaba+Ben+Mainer;Bilgisayar+Programcılığı+Öğrencisi;Web+Geliştirici;Kendimi+Geliştiriyorum" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
 
 ---
 
