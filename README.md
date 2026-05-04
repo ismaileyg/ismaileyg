@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ismail%20Eyg&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
-
 ---
 
 # 👋 Merhaba, ben İsmail
@@ -42,4 +37,6 @@ Sürekli pratik yaparak ve gerçek projeler üreterek JavaScript ve web gelişti
 - GitHub: https://github.com/ismaileyg  
 - E-posta: pusmails@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ismail-eyio%C4%9Flu-72757736b/
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
