@@ -22,7 +22,12 @@ Sürekli pratik yaparak ve gerçek projeler üreterek JavaScript ve web gelişti
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaileyg&show_icons=true&theme=github_dark_dimmed)
 
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileyg&layout=compact&theme=github_dark_dimmed)
+
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ismaileyg&theme=github-dark-dimmed)
 
