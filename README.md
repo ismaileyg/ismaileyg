@@ -22,8 +22,7 @@ Sürekli pratik yaparak ve gerçek projeler üreterek JavaScript ve web gelişti
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaileyg&show_icons=true&theme=tokyonight)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileyg&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaileyg&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 İletişim
