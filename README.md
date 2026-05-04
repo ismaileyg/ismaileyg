@@ -1,4 +1,4 @@
-![snake gif](https://github.com/KULLANICIADIN/KULLANICIADIN/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ismaileyg/ismaileyg/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
