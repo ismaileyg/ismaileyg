@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Ismail%20Eyg&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:141E30,100:243B55&height=200&section=header&text=Ismail%20Eyg&fontSize=40&fontColor=ffffff" />
 
 ---
 
