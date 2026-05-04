@@ -1,3 +1,15 @@
+<!-- 🌊 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=İsmail%20Eyg&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- ✨ ANİMASYONLU YAZI -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&lines=Frontend+Developer;JavaScript+Developer;UI+Lover;Clean+Code+Builder"/>
+</p>
+
+---
+
 # 👋 Merhaba, ben İsmail
 
 Modern ve kullanıcı dostu web uygulamaları geliştirmeye odaklanan bir Frontend Developer’ım.
